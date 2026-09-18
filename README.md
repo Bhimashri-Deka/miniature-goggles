@@ -29,7 +29,8 @@ HybridChatBot
 ---
 
 ## GUI Demo (Streamlit)
-<img width="1915" height="896" alt="Screenshot 2026-09-18 161729" src="https://github.com/user-attachments/assets/2203c80e-93b2-4f2d-ab40-cf32e617ff64" />
+<img width="1902" height="864" alt="Screenshot 2026-09-18 162242" src="https://github.com/user-attachments/assets/a3e4f641-5eae-4b9e-93f9-db98977604f0" />
+
 
 ### Run the GUI
 
